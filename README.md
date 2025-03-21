@@ -8,6 +8,12 @@ This is a **local text-to-SQL converter** built using **Streamlit** and **Ollama
 
 💡 This tool is particularly useful when working with **confidential datasets** or **offline environments**, where external LLM access is restricted.
 
+**Screenshots:**
+Streamlit App
+![Streamlit App](images/streamlit_img.png)
+
+Terminal/Log
+![Terminal-log](images/terminal_img.png)
 ---
 
 ## 🛠️ **Setup Instructions**
