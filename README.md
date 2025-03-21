@@ -1,6 +1,4 @@
-# Local Natural Language to SQL LLM
-
-## 🚀 **Local LLM-Powered SQL Query Generator**
+# 🚀 **Local LLM-Powered SQL Query Generator**
 This is a **local text-to-SQL converter** built using **Streamlit** and **Ollama**, powered by **Llama3.2**. It enables you to interact with your database schema using natural language prompts, generating accurate SQL queries in return.  
  
 ✅ **Key Benefits:**
